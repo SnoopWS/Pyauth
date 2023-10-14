@@ -55,5 +55,3 @@ Tired of using keyauth or reaps? Look no further! PyAuth is your go-to authentic
 ### Assign an HWID (POST)
 
 [https://YOURSERVERIP/license_keys/{application}/assign_hwid?application={UUID}&license_key={LICENSE_KEY}&hwid={SSID_FORMAT}](#)
-
-Feel free to use this enhanced README to make your project stand out on GitHub. 😃 If you have any questions or need further assistance, let us know! 🌟
